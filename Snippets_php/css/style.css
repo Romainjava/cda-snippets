@@ -1,0 +1,14 @@
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: whitesmoke;
+    border-top: .05rem solid #e5e5e5;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    object-fit: cover;
+}
